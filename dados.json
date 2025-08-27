@@ -1,0 +1,37 @@
+[
+
+{   "produtos" : {
+        "prod123": "Notebook Dell",
+        "prod124": "Tablet Samsung",
+        "prod125":"Smartphone Iphone"
+    } 
+},
+{
+    "vendedor":{
+        "vend456": "Bras",
+        "vend457":  "Cubas",
+        "vend458": "Shibata da siva"
+    }
+},
+{
+    "preco":{
+        "preco789": "2550.00",
+        "preco790": "3199.00",
+        "preco791": "1999.00"
+    }
+},
+{
+    "imagemProdutos": {
+        "image001": "<img src='img/image001.png' width='300px'>",
+        "image002": "<img src='img/image002.png' width='300px'>",
+        "image003": "<img src='img/image003.png' width='300px'>"
+    }
+},
+{
+    "Client":{
+        "Client1": "Ximbinha",
+        "Client2":  "Cleber",
+        "Client3": "Jonas"
+    }
+}
+]
